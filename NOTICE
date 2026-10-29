@@ -1,0 +1,11 @@
+NOTICE — pyasn1-rust
+
+This project is an experimental Rust port lane for pyasn1
+(https://github.com/pyasn1/pyasn1), which is copyright (c) 2005-2020,
+Ilya Etingof and contributors, under the BSD 2-Clause License
+(see https://pyasn1.readthedocs.io/en/latest/license.html).
+
+No pyasn1 source is vendored here. Any algorithms or structure derived
+from pyasn1 during this lane are attributed to the upstream project
+above; port code in this repository is under the LICENSE file at the
+repo root.
